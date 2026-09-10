@@ -1,5 +1,6 @@
 # causal_analysis
 Objetivos
+
 Ao final deste projeto, será possível:
 
 Distinguir perguntas preditivas de perguntas causais, compreendendo que elas exigem formas diferentes de raciocínio e análise.
